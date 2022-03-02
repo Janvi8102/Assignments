@@ -140,6 +140,7 @@ header{
     cursor: pointer;
 }
 
+
 .login_drop_li:last-child , .more_drop_li:last-child{
     border-bottom: none;
 }
@@ -153,7 +154,7 @@ header{
 }
 
 .login_drop_li:hover, .more_drop_li:hover{
-    background: #fff;
+    background: #fafafa;
 }
 
 .new_login{
